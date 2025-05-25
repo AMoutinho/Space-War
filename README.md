@@ -1,4 +1,4 @@
-# <p align=center><img align="center" src="https://i.imgur.com/rGQS7id.png" height="55" width="60"/> Space War <img align="center" src="https://i.imgur.com/rGQS7id.png" height="55" width="60"/></p>
+# <p align=center><img align="center" src="https://i.postimg.cc/Kc6d4g0Q/Nave-do-Jogador.png" height="55" width="60"/> Space War <img align="center" src="https://i.postimg.cc/Kc6d4g0Q/Nave-do-Jogador.png" height="55" width="60"/></p>
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
@@ -19,17 +19,17 @@
 <h2 id="linguagens">Tecnologias e IDE Utilizadas 📚</h2>
 
 <div style="display: inline_block">
-<!-- LOGOS C# -->   
-<img align="center" src="https://i.imgur.com/Z8rZ6lE.png" width="300"/>
-<!-- LOGO JET BRAINS RIDER -->  
-<img align="center" src="https://i.imgur.com/C2wL0TU.png" width="300"/> 
+<!-- LOGOS C# 
+<img align="center" src="https://i.imgur.com/Z8rZ6lE.png" width="300"/> --> 
+<!-- LOGO JET BRAINS RIDER  
+<img align="center" src="https://i.imgur.com/C2wL0TU.png" width="300"/> --> 
+<img align="center" src="https://i.postimg.cc/Y9hC2mdM/develop-or-fix-a-2d-or-3d-game-in-unity-3d.png" width="300"/>
   
 <h2 id="screenshots">Screenshots 📸</h2>
 
   <!--<b><i>EM BREVE...</i></b>-->
 
-<img align="center" src="https://i.imgur.com/hxpgeYp.png" width="300"/> 
-<img align="center" src="https://i.imgur.com/ju273U7.png" width="300"/> 
+<img align="center" src="https://i.postimg.cc/9fxfjBtL/Screen.png" width="300"/> 
 
 <h2 id="demoprojeto">Jogue online o projeto <img align="center" src="https://cdn-icons-png.flaticon.com/512/5511/5511365.png" width="35"/></h2>
 
